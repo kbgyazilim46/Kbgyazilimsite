@@ -35,7 +35,13 @@ def hakkinda():
     <p>Aşağıdaki bilgiler iletişim bilgilerimdir. Her türlü sanal işlem için bana ulaşabilirsiniz güvenilirlik için aşağıdaki Instagram hesabıma yazabilirsiniz.</p>
 
     <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/profil.png" alt="Kimsebaşgöz" width="300">
-    
+    <h2>Güvence Fotoğrafları</h2>
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence1.png" alt="Güvence 1" width="200">
+  <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence2.png" alt="Güvence 2" width="200">
+  <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence3.png" alt="Güvence 3" width="200">
+</div>
+
     <h2>İletişim</h2>
     <p><strong>Telefon:</strong> <a href='tel:wa.me/+639092363984'>wa.me/+639092363984</a></p>
     <p><strong>Instagram:</strong> <a href='https://instagram.com/_kimsebasgoz_' target='_blank'>@_kimsebasgoz_</a></p>
