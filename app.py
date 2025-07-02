@@ -33,7 +33,7 @@ def hakkinda():
     <h1>Hakkında</h1>
     <p>Selamünaleyküm, ben nam-ı değer <strong>Kimsebaşgöz</strong>. İsmim <strong>Ahmet Utku Can</strong>'dır.</p>
     <p>Aşağıdaki bilgiler iletişim bilgilerimdir. Her türlü sanal işlem için bana ulaşabilirsiniz güvenilirlik için aşağıdaki Instagram hesabıma yazabilirsiniz.</p>
-
+    <img src="https://raw.githubusercontent.com/kbgyazilim46/reposu/main/profil.png" alt="Profil" width="300">
     <hr>
     <h2>İletişim</h2>
     <p><strong>Telefon:</strong> <a href='tel:wa.me/+639092363984'>wa.me/+639092363984</a></p>
