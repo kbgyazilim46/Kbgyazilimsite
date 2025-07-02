@@ -32,11 +32,11 @@ def hakkinda():
     content = """
     <h1>Hakkında</h1>
     <p>Selamünaleyküm, ben nam-ı değer <strong>Kimsebaşgöz</strong>. İsmim <strong>Ahmet Utku Can</strong>'dır.</p>
-    <p>Aşağıdaki bilgiler iletişim bilgilerimdir. Her türlü sanal işlem için bana ulaşabilirsiniz.</p>
+    <p>Aşağıdaki bilgiler iletişim bilgilerimdir. Her türlü sanal işlem için bana ulaşabilirsiniz güvenilirlik için aşağıdaki Instagram hesabıma yazabilirsiniz.</p>
 
     <hr>
     <h2>İletişim</h2>
-    <p><strong>Telefon:</strong> <a href='tel:+639092363984'>wa.me;//+639092363984</a></p>
+    <p><strong>Telefon:</strong> <a href='tel:wa.me://+639092363984'>wa.me;//+639092363984</a></p>
     <p><strong>Instagram:</strong> <a href='https://instagram.com/_kimsebasgoz_' target='_blank'>@_kimsebasgoz_</a></p>
     <p><strong>E-posta:</strong> <a href='mailto:kimsebasgozedemez@gmail.com'>kimsebasgozedemez@gmail.com</a></p>
     """
@@ -46,7 +46,7 @@ def hakkinda():
 def iletisim():
     content = """
     <h1>İletişim</h1>
-    <p><strong>Telefon:</strong> <a href='tel:+639092363984'>+63 909 236 3984</a></p>
+    <p><strong>Telefon:</strong> <a href='tel:wa.me://+639092363984'>wa.me://+639092363984</a></p>
     <p><strong>Instagram:</strong> <a href='https://instagram.com/_kimsebasgoz_' target='_blank'>@_kimsebasgoz_</a></p>
     <p><strong>E-posta:</strong> <a href='mailto:kimsebasgozedemez@gmail.com'>kimsebasgozedemez@gmail.com</a></p>
     """
