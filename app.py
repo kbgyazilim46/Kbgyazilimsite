@@ -7,7 +7,7 @@ HTML_TEMPLATE = """
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Kişisel Web Sitesi</title>
+    <title>Kimse Baş Göz hakkında</title>
     <style>
         body {{ font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }}
         nav a {{ margin: 10px; text-decoration: none; color: #333; font-weight: bold; }}
