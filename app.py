@@ -42,10 +42,9 @@ def hakkinda():
   <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence3.jpg" alt="Güvence 3" width="200">
 </div>
 
-https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/arkamuzik.mp3
-<video autoplay loop muted playsinline style="position: fixed; right: 0; bottom: 0; min-width: 50%; min-height: 50%; z-index: -1;">
-  <source src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/arkavideo.mp4" type="video/mp4">
-</video>
+<audio autoplay loop>
+  <source src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/arkamuzik.mp3" type="audio/mp3">
+</audio>
 
     <h2>İletişim</h2>
     <p><strong>Telefon:</strong> <a href='tel:wa.me/+639092363984'>wa.me/+639092363984</a></p>
