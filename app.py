@@ -39,7 +39,7 @@ def hakkinda():
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence1.png" alt="Güvence 1" width="200">
   <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence2.png" alt="Güvence 2" width="200">
-  <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence3.png" alt="Güvence 3" width="200">
+  <img src="https://raw.githubusercontent.com/kbgyazilim46/kbgyazilimsite/main/guvence3.jpg" alt="Güvence 3" width="200">
 </div>
 
     <h2>İletişim</h2>
